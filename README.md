@@ -3,7 +3,7 @@ A Graphical interface to remove region of interest from Freesurfer parcellation.
 
 ![alt text]( img/parcedit.PNG "Edit Parcellation Toolbox")
 
-This toolbox can be used to set all voxels belong to one or several region of interest to unknow. It could be useful
+This toolbox can be used to set all voxels belong to one or several region of interest to unknow. It could be useful for MEG/EEG source space postionning.
 ## Installation
 
 To install the toolbox, clone this repository:
