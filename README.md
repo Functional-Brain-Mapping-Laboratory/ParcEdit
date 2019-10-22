@@ -19,7 +19,7 @@ pip install -r requirements.txt
 
 ## Run
 
-The run the toolbox, go to the repository main folder and type:
+To run the toolbox, go to the repository main folder and type:
 
 `python -m parcedit`
 
